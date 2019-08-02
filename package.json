@@ -1,0 +1,36 @@
+{
+  "name": "nodeschool",
+  "version": "0.0.1",
+  "description": "Учу Node.JS",
+  "main": "main.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "nyc": "^14.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha.cmd ./test",
+    "start": "node ."
+  },
+  "author": "Дмитрий Борисов",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z1365/nodeschool.git"
+  },
+  "keywords": [
+    "learn",
+    "helloworld",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/z1365/nodeschool/issues"
+  },
+  "homepage": "https://github.com/z1365/nodeschool#readme"
+}
