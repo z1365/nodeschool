@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "eslint": "^6.1.0",
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   },
   "scripts": {
     "test": "mocha.cmd ./test",
